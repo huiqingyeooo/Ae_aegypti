@@ -13,7 +13,7 @@
 <param ve-entity eid="Q477918"> <!-- Aedes albopictus -->
 <param ve-entity eid="Q30953"> <!-- dengue -->
 
-Dengue, a mosquito-borne viral disease, is endemic and prevalent in Singapore. It is also known as break-bone fever, which points to the severe muscle and joint pains that one can get when contracting dengue.[^1] Such is the prominence of this disease that it has become a household name in Singapore, and decades of public health messaging has educated the public well that the culprit of this disease is a “black-and-white mosquito”, the *Aedes aegypti*.[^2] Many will be surprised to know that this species has a non-native origin, given its ubiquitous nature and ability to thrive in Singapore’s urban niches. Weaving together history with scientific evidence, this story traces the challenges of *Ae. aegypti* vector control in Singapore and explores why dengue is still around despite decades of intensive vector control efforts.
+<span eid="Q30953">Dengue</span>, a mosquito-borne viral disease, is endemic and prevalent in Singapore. It is also known as break-bone fever, which points to the severe muscle and joint pains that one can get when contracting dengue.[^1] Such is the prominence of this disease that it has become a household name in Singapore, and decades of public health messaging has educated the public well that the culprit of this disease is a “black-and-white mosquito”, the *Aedes aegypti*.[^2] Many will be surprised to know that this species has a non-native origin, given its ubiquitous nature and ability to thrive in Singapore’s urban niches. Weaving together history with scientific evidence, this story traces the challenges of *Ae. aegypti* vector control in Singapore and explores why dengue is still around despite decades of intensive vector control efforts.
 
 ## A human-loving mosquito
 *Ae. aegypti* is an anthropophilic species. Not only does it feed preferentially on human[^3], it almost exclusively breeds in specialised artificial container habitats such as flowerpots and bath tubs.[^4] They can breed in small amounts of water that are relatively low in organic matter and high in oxygen.[^5,6] Such adaptations have enabled this species to take easy advantage of stagnant water habitats.
@@ -30,7 +30,10 @@ The increase in mosquito-borne diseases as a result of rapid urbanization happen
 
 After World War II and the end of the Japanese occupation, citizens of Singapore focused on recovering their livelihoods, and many turned to hawker trades to earn income.[^11] Without proper sanitation and refuse systems, however, waste soon piled up and provided ideal conditions for the accumulation of stagnant water for mosquitoes to breed.[^11] The development of Singapore with the clearing of land to make way for buildings during this period marks the gradual transition of an increased availability of suitable urban habitats for *Ae. aegypti*.
 
-<param ve-image url="rubbishOnStreet.jpg">
+<param ve-image 
+       label="Pagoda street filled with rubbish"
+       attribution="Singapore Press Holdings"
+       url="rubbishOnStreet.jpg">
 
 While cases of dengue had been recorded in Singapore as early as 1901[^12], it was not until 1960, with an outbreak of an urban and more severe form – the dengue haemorrhagic fever (DHF) – that more attention turned from fighting malaria to dengue.[^4,13] A year later, Dr. Albert Rudnick, an entomologist and virologist from the University of California, sampled mosquitoes from Singapore and established that the haemorrhagic form was transmitted by *Ae. aegypti*.[^14] By then, this non-native species had firmly established itself in Singapore’s growing urban landscape. Subsequently, *Ae. aegypti* facilitated many outbreaks of dengue and other mosquito-borne diseases in Singapore such as chikungunya in 2008[^15], and more recently Zika in 2016[^16], further highlighting its impact on epidemics in the urban areas.
 
