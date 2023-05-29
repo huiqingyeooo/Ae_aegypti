@@ -38,14 +38,11 @@ While cases of dengue had been recorded in Singapore as early as 1901[^12], it w
 ## The relentless chase
 The first DHF outbreak in 1960 recorded 70 hospitalised cases 17 and was a catalyst for authorities to set up the first governmental department dedicated to vector control, the Vector Control Unit (later the Vector Control Research Department – VCRD).[^4] Prior to this, the control of mosquitoes was seen as a public health responsibility under the Health department. This move placed vector control at the forefront of the government agenda and facilitated the set-up of an integrated system to tackle the growing dengue challenge. It was a nation-wide effort, involving regular surveillance and insecticide application as well as infrastructural changes such as the development of piping systems to phase out the need for stored water containers, which were – and remain – a prime breeding habitat for *Ae. aegypti*.
 
-<param ve-image 
-       label="Stegomyia fasciata" 
-       license="public domain" 
-       url="https://github.com/huiqingyeooo/Ae_aegypti/controlOfAedesVectors.jpg">
+<param ve-image fit="cover" url="https://github.com/huiqingyeooo/Ae_aegypti/controlOfAedesVectors.jpg">
 
 While the use of insecticides was effective in killing mosquitoes, their widespread application and the fast generation times of the mosquito contributed to the development of insecticide resistance. To combat this, Singapore has adapted a novel technology, releasing millions of male *Ae. aegypti* infected with the insect bacteria *Wolbachia*. This control strategy is species-specific, and has been effective in bringing *Ae. aegypti* populations down in areas where the Wolbachia-infected males were released.
 
-<param ve-video id="zAcxBNcAV00&ab_channel=CleanandGreenSingapore" title="Vector control with *Wolbachia*">
+<param ve-video id="zAcxBNcAV00&ab" title="Vector control with *Wolbachia*">
 
 
        
