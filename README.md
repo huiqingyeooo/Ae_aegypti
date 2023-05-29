@@ -34,7 +34,7 @@ After World War II and the end of the Japanese occupation, citizens of Singapore
        label="Pagoda street filled with rubbish"
        attribution="Singapore Press Holdings"
        fit="contain"
-       url="rubbishOnStreet.jpg">
+       url="media/rubbishOnStreet.jpg">
 
 While cases of dengue had been recorded in Singapore as early as 1901[^12], it was not until 1960, with an outbreak of an urban and more severe form – the dengue haemorrhagic fever (DHF) – that more attention turned from fighting malaria to dengue.[^4,13] A year later, Dr. Albert Rudnick, an entomologist and virologist from the University of California, sampled mosquitoes from Singapore and established that the haemorrhagic form was transmitted by *Ae. aegypti*.[^14] By then, this non-native species had firmly established itself in Singapore’s growing urban landscape. Subsequently, *Ae. aegypti* facilitated many outbreaks of dengue and other mosquito-borne diseases in Singapore such as chikungunya in 2008[^15], and more recently Zika in 2016[^16], further highlighting its impact on epidemics in the urban areas.
 
