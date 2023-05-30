@@ -16,30 +16,31 @@
 <param ve-image 
        label="Symptoms of dengue fever" 
        license="CC BY-NC-ND 2.0" 
-       url="https://live.staticflickr.com/8331/8076919949_20ef6b9e4b_c.jpg">
+       url="https://live.staticflickr.com/8331/8076919949_20ef6b9e4b_c.jpg"
+       fit="contain">
 
 ## A human-loving mosquito
 *Ae. aegypti* is an anthropophilic species. Not only does it feed preferentially on humans[^3], it almost exclusively breeds in specialised artificial container habitats such as flowerpots and bath tubs.[^4] They can breed in small amounts of water that are relatively low in organic matter and high in oxygen.[^5]. Such adaptations have enabled this species to take easy advantage of stagnant water habitats.
 
 <param ve-image 
-       label="Illustration of *Aedes aegypti* (*Stegomyia fasciata*)" 
+       label="Illustration of Aedes aegypti (Stegomyia fasciata)" 
        license="Public domain" 
-       url="https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2021/06/Campbell_4-768x679.jpg">
+       url="https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2021/06/Campbell_4-768x679.jpg"
+       fit="contain">
 <param ve-image 
        label="Photograph of *Aedes aegypti*" 
        attribution="James Gathany"
        license="Public domain, via Wikimedia Commons" 
-       url="https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2021/06/Campbell_4-768x679.jpg">    
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aedes_aegypti_CDC-Gathany.jpg/640px-Aedes_aegypti_CDC-Gathany.jpg"
+       fit="contain">    
 
 The eggs of *Ae. aegypti* are laid just above the waterline of containers and are desiccant-resistant, which means they can survive without water for months at a time.[^6] Originating from the west Sahel region of Africa, this species has since spread around the globe.
-
-<param ve-map basemap="Esri_WorldPhysical" title="The distribution of *Aedes aegypti* based on Houé et al. (2019)">  
+<param ve-map basemap="Esri_WorldPhysical" title="The distribution of Aedes aegypti based on Houé et al. (2019)">  
 <param ve-map-layer geojson active url="aegypti_distribution.json">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aedes_aegypti_CDC-Gathany.jpg/640px-Aedes_aegypti_CDC-Gathany.jpg"
 	coords="14.791, -13.0421"
 	size="129, 170"
 	circle="true">
-
 The egg form is likely how it was introduced into Singapore, through trade routes carrying artificial containers with accumulated water. 
 <param ve-map
        zoom="3"
@@ -48,16 +49,15 @@ The egg form is likely how it was introduced into Singapore, through trade route
        title="*Aedes aegypti* was first formally recorded in Singapore in 1908 by Leicester">
 <param ve-map-layer geojson active url="aegypti_distribution.json">
 
-
 Though the first record of it in 1908 in Singapore was as *Stegomyia fasciata*[^7], the description of the mosquito’s distinctive lyre-shaped white scales on its thorax means identification as *Ae. aegypti* is unmistakeable. Despite its medical significance importance and far-reaching impacts on public health now, the first detection of this species on the shores of Singapore was met without much alarm and was merely treated as a new insect record.
 
 <param ve-image 
-       label="First formal record of (*Aedes aegypti*) *Stegomyia fasciata* in Singapore - Description" 
+       label="First formal record of (Aedes aegypti) Stegomyia fasciata in Singapore - Description" 
        attribution="Biodiversity Heritage Library"
        license="public domain" 
        url="media/Stegomyia_fasciata1.png">
 <param ve-image 
-       label="First formal record of (*Aedes aegypti*) *Stegomyia fasciata* in Singapore - Locality details" 
+       label="First formal record of (Aedes aegypti) Stegomyia fasciata in Singapore - Locality details" 
        attribution="Biodiversity Heritage Library"
        license="public domain" 
        url="media/Stegomyia_fasciata2.png">
@@ -79,19 +79,19 @@ While cases of dengue had been recorded in Singapore as early as 1901[^13], it w
 The first DHF outbreak in 1960 recorded 70 hospitalised cases[^18] and was a catalyst for authorities to set up the first governmental department dedicated to vector control, the Vector Control Unit (later the Vector Control Research Department – VCRD).[^19] Prior to this, the control of mosquitoes was seen as a public health responsibility under the Health department. This move placed vector control at the forefront of the government agenda and facilitated the set-up of an integrated system to tackle the growing dengue challenge. It was a nation-wide effort, involving regular surveillance and insecticide application as well as infrastructural changes such as the development of piping systems to phase out the need for stored water containers, which were – and remain – a prime breeding habitat for *Ae. aegypti*.
 
 <param ve-image 
-       label="Environmental control of <i>Aedes</i> vectors"
+       label="Environmental control of Aedes vectors"
        attrbution="World Health Organization"
        license="Public domain"
        url="media/controlOfAedesVectors.jpg">
 
 While the use of insecticides was effective in killing mosquitoes, their widespread application and the fast generation times of the mosquito contributed to the development of insecticide resistance. To combat this, Singapore has adapted a novel technology, releasing millions of male *Ae. aegypti* infected with the insect bacteria *Wolbachia*. This control strategy is species-specific, and has been effective in bringing *Ae. aegypti* populations down in areas where the Wolbachia-infected males were released.
 
-<param ve-video id="zAcxBNcAV00&ab" title="Vector control with *Wolbachia*">
+<param ve-video id="zAcxBNcAV00&ab" title="Vector control with Wolbachia">
 
 Following the success of the *Wolbachia* control method, there are concerns that other locally occurring and adaptable species may start to take over the ecological niche left by *Ae. aegypti*. The <span eid="Q477918">Asian Tiger mosquito</span> (*Aedes albopictus*) is a widespread species in Singapore, occupying a wide range of vegetated to urban habitats. A “black-and-white” mosquito as well, it belongs to the same classification of subgenus *Stegomyia* as *Ae. aegypti*, and is a competent vector for dengue, chikungunya and Zika.[^21] Already it is a widespread species involved in multiple epidemics worldwide.[^22] This is a good reminder that *Aedes* mosquitoes and humans are part of the urban ecological fabric, and intentionally removing a species may not be as straightforward as it seems.
 
 <param ve-image 
-       label="Asian tiger mosquito (*Aedes albopictus*)"
+       label="Asian tiger mosquito (Aedes albopictus)"
        attribution="DataBase Center for Life Science"
        license="Public domain, via Wikimedia Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/202204_Asian_tiger_mosquito.svg/900px-202204_Asian_tiger_mosquito.svg.png?20220511124125">
