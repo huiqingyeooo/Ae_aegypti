@@ -3,7 +3,9 @@
 
 <param ve-config 
        title="Not all black and white" 
-       banner="https://upload.wikimedia.org/wikipedia/commons/5/50/Aedes_aegypti_E-A-Goeldi_1905.jpg">
+       author="Yeo Huiqing"
+       banner="https://upload.wikimedia.org/wikipedia/commons/5/50/Aedes_aegypti_E-A-Goeldi_1905.jpg"
+       layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
