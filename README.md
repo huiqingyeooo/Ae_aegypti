@@ -53,12 +53,13 @@ Though the first record of it in 1908 in Singapore was as *Stegomyia fasciata*[^
        attribution="Biodiversity Heritage Library"
        license="public domain" 
        manifest="https://iiif.archivelab.org/iiif/studiesfrominsti4719kual/manifest.json"
-       seq="182">
+       seq="183">
 <param ve-image 
        label="First formal record of (Aedes aegypti) Stegomyia fasciata in Singapore - Locality details" 
-       attribution="Biodiversity Heritage Library"
+  	attribution="Biodiversity Heritage Library"
        license="public domain" 
-       url="media/Stegomyia_fasciata2.png">
+       manifest="https://iiif.archivelab.org/iiif/studiesfrominsti4719kual/manifest.json"
+       seq="184">
 
 ## Outbreaks in Singapore
 The increase in mosquito-borne diseases as a result of rapid urbanization happening in Singapore is not new. Since the 1900s, the island’s malaria cases were rampant because the malarial vectors (<span eid="Q158597">*Anopheles*</span> species) thrive in disturbed forest edge habitats after forests were cleared for agriculture.[^8] Authorities dealt with the malaria problem swiftly, by eliminating breeding habitats such as seepages and ditches and tightening surveillance measures.[^9] Singapore was declared malaria-free by the World Health Organization in 1982.[^10] Despite Singapore’s best efforts, however, stemming dengue transmission has not been as successful, largely owing to the increase in urban habitats ideal for *Ae. aegypti*.
