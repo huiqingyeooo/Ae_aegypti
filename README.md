@@ -52,7 +52,7 @@ Though the first record of it in 1908 in Singapore was as *Stegomyia fasciata*[^
        label="First formal record of (Aedes aegypti) Stegomyia fasciata in Singapore - Description" 
        attribution="Biodiversity Heritage Library"
        license="public domain" 
-       url="https://iiif.archivelab.org/iiif/studiesfrominsti4719kual/manifest.json"
+       manifest="https://iiif.archivelab.org/iiif/studiesfrominsti4719kual/manifest.json"
        ref="86">
 <param ve-image 
        label="First formal record of (Aedes aegypti) Stegomyia fasciata in Singapore - Locality details" 
