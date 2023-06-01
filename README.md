@@ -67,7 +67,7 @@ After World War II and the end of the Japanese occupation, citizens of Singapore
        label="Pagoda street filled with rubbish"
        attribution="Singapore Press Holdings"
        license="License obtained from Singapore Press Holdings"
-       url="media/rubbishOnStreet.jpg">
+       url="https://raw.githubusercontent.com/huiqingyeooo/Ae_aegypti/9f88182277c61055e195633f90a27729b4f9ead9/media/rubbishOnStreet.jpg">
 
 While cases of dengue had been recorded in Singapore as early as 1901[^13], it was not until 1960, with an outbreak of an urban and more severe form – the dengue haemorrhagic fever (DHF) – that more attention turned from fighting malaria to dengue.[^14] A year later, Dr. Albert Rudnick, an entomologist and virologist from the University of California, sampled mosquitoes from Singapore and established that the haemorrhagic form was transmitted by *Ae. aegypti*.[^15] By then, this non-native species had firmly established itself in Singapore’s growing urban landscape. Subsequently, *Ae. aegypti* facilitated many outbreaks of dengue and other mosquito-borne diseases in Singapore such as chikungunya in 2008[^16], and more recently Zika in 2016[^17], further highlighting its impact on epidemics in the urban areas.
 
@@ -77,7 +77,7 @@ The first DHF outbreak in 1960 recorded 70 hospitalised cases[^18] and was a cat
        label="Environmental control of Aedes vectors"
        attrbution="World Health Organization"
        license="Public domain"
-       url="media/controlOfAedesVectors.jpg">
+       url="https://raw.githubusercontent.com/huiqingyeooo/Ae_aegypti/main/media/controlOfAedesVectors.jpg">
 
 While the use of insecticides was effective in killing mosquitoes, their widespread application and the fast generation times of the mosquito contributed to the development of insecticide resistance. To combat this, Singapore has adapted a novel technology, releasing millions of male *Ae. aegypti* infected with the insect bacteria *Wolbachia*. This control strategy is species-specific, and has been effective in bringing *Ae. aegypti* populations down in areas where the Wolbachia-infected males were released.
 <param ve-video id="zAcxBNcAV00&ab" title="Vector control with Wolbachia">
@@ -102,19 +102,19 @@ This includes broadcasting anti-mosquito messages on the television and radio, a
        label="Keep Singapore clean and mosquito-free campaign"
        attribution="Singapore Press Holdings"
        license="License obtained from Singapore Press Holdings"
-       url="media/keepSGcleanCampaign.jpg">                      
+       url="https://raw.githubusercontent.com/huiqingyeooo/Ae_aegypti/main/media/keepSGcleanCampaign.jpg">                      
 <param ve-image 
        label="Dengue prevention poster"
        attibution="Ministry of Sustainability and the Environment"
        license="License obtained from Ministry of Sustainability and Environment"
-       url="media/mosquitoPoster.jpg">
+       url="https://raw.githubusercontent.com/huiqingyeooo/Ae_aegypti/main/media/mosquitoPoster.jpg">
 
 To ensure that residents remain vigilant in eradicating *Aedes* breeding sites, the Disease-bearing Insects Act was passed in 1968 (now superseded by the Control of Vectors and Pesticides Act in 1998). The Act illegalises breeding of any mosquito species at home and enable public health officers to enter and examine home premises for mosquito breeding.[^29] Fines are also imposed as a deterrent, and penalties have gotten more stringent over the years, suggesting that a proportion of the population continues to be negligent.
 <param ve-image 
        label="$1000 fine for leaving stagnant water in vases at the cemetery"
        attribution="Ronni Pinsler"
        license="Permission to use image obtained from Ronni Pinsler"
-       url="media/Cemetery.jpg">
+       url="https://raw.githubusercontent.com/huiqingyeooo/Ae_aegypti/main/media/Cemetery.jpg">
 
 Today, the rise in dengue cases is partially owed to the decades-old successful vector control strategies. Ironically, low numbers of *Ae. aegypti* in Singapore have resulted in a large pool of susceptible citizens (low herd immunity), which means that more people are likely to succumb to dengue when an outbreak happens. These sentiments have been echoed by various authorities throughout the years. 
 <param ve-knightlab-timeline source="1zcxIgw2_-TgI7tqUnOlXrJATHgaVcIt3GURsufCJ4aU" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="640">
