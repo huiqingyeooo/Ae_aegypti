@@ -32,14 +32,13 @@
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aedes_aegypti_CDC-Gathany.jpg/640px-Aedes_aegypti_CDC-Gathany.jpg"
        fit="contain">    
 
-The eggs of *Ae. aegypti* are laid just above the waterline of containers and are desiccant-resistant, which means they can survive without water for months at a time.[^6] Originating from the west Sahel region of Africa, this species has since spread around the globe.
-<param ve-map basemap="OpenStreetMap" title="The distribution of Aedes aegypti based on Houé et al. (2019)">  
+The eggs of *Ae. aegypti* are laid just above the waterline of containers and are desiccant-resistant, which means they can survive without water for months at a time.[^6] Originating from the west Sahel region of Africa, this species has since spread around the globe. The egg form is likely how it was introduced into <span data-mouseover-map-flyto="1.371, 103.8043, 3">Singapore</span>, through trade routes carrying artificial containers with accumulated water. 
+<param ve-map basemap="OpenStreetMap" title="The distribution of Aedes aegypti based on Houé et al. (2019)">
 <param ve-map-layer geojson active url="https://raw.githubusercontent.com/huiqingyeooo/Ae_aegypti/main/aegypti_distribution.json">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aedes_aegypti_CDC-Gathany.jpg/640px-Aedes_aegypti_CDC-Gathany.jpg"
 	coords="14.217, -14.941"
 	size="129, 170"
-	circle="true"> The egg form is likely how it was introduced into <span data-mouseover-map-flyto="1.371, 103.8043">Singapore</span>, through trade routes carrying artificial containers with accumulated water. 
-
+	circle="true"> 
 
 Though the first record of it in 1908 in Singapore was as *Stegomyia fasciata*[^7], the description of the mosquito’s distinctive lyre-shaped white scales on its thorax means identification as *Ae. aegypti* is unmistakeable. Despite its medical significance importance and far-reaching impacts on public health now, the first detection of this species on the shores of Singapore was met without much alarm and was merely treated as a new insect record.
 <param ve-image 
