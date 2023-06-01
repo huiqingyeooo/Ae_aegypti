@@ -34,7 +34,7 @@
 
 The eggs of *Ae. aegypti* are laid just above the waterline of containers and are desiccant-resistant, which means they can survive without water for months at a time.[^6] Originating from the west Sahel region of Africa, this species has since spread around the globe.
 <param ve-map basemap="OpenStreetMap" title="The distribution of Aedes aegypti based on Houé et al. (2019)">  
-<param ve-map-layer geojson active url="aegypti_distribution.json">
+<param ve-map-layer geojson active url="https://raw.githubusercontent.com/huiqingyeooo/Ae_aegypti/main/aegypti_distribution.json">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aedes_aegypti_CDC-Gathany.jpg/640px-Aedes_aegypti_CDC-Gathany.jpg"
 	coords="14.217, -14.941"
 	size="129, 170"
