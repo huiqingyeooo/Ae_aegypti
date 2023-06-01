@@ -67,7 +67,8 @@ After World War II and the end of the Japanese occupation, citizens of Singapore
        label="Pagoda street filled with rubbish"
        attribution="Singapore Press Holdings"
        license="License obtained from Singapore Press Holdings"
-       url="https://raw.githubusercontent.com/huiqingyeooo/Ae_aegypti/9f88182277c61055e195633f90a27729b4f9ead9/media/rubbishOnStreet.jpg">
+       url="https://raw.githubusercontent.com/huiqingyeooo/Ae_aegypti/9f88182277c61055e195633f90a27729b4f9ead9/media/rubbishOnStreet.jpg"
+       fit="contain">
 
 While cases of dengue had been recorded in Singapore as early as 1901[^13], it was not until 1960, with an outbreak of an urban and more severe form – the dengue haemorrhagic fever (DHF) – that more attention turned from fighting malaria to dengue.[^14] A year later, Dr. Albert Rudnick, an entomologist and virologist from the University of California, sampled mosquitoes from Singapore and established that the haemorrhagic form was transmitted by *Ae. aegypti*.[^15] By then, this non-native species had firmly established itself in Singapore’s growing urban landscape. Subsequently, *Ae. aegypti* facilitated many outbreaks of dengue and other mosquito-borne diseases in Singapore such as chikungunya in 2008[^16], and more recently Zika in 2016[^17], further highlighting its impact on epidemics in the urban areas.
 
@@ -94,7 +95,7 @@ Following the success of the *Wolbachia* control method, there are concerns that
 <param ve-image url="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3373041/bin/05-1210-F1.jpg"
        fit="contain">
 
-Inevitably, many of the breeding sites of *Ae. aegypti* occur indoors and mainly within  residences which are personal spaces and largely inaccessible for surveillance. Recognising this early on in the fight against dengue, the authorities rolled out a variety of anti-mosquito campaigns to educate the public and encourage kampung spirit (“gotong royong”) to look out for one another.[^25] 
+Inevitably, many of the breeding sites of *Ae. aegypti* occur indoors and mainly within  residences which are personal spaces and largely inaccessible for surveillance. Recognising this early on in the fight against dengue, the authorities rolled out a variety of anti-mosquito campaigns to educate the public and encourage kampung spirit (*gotong royong*) to look out for one another.[^25] 
 <param ve-video id="Sr6x76ME6QA&ab" title="Dengue prevention television broadcast">
 
 This includes broadcasting anti-mosquito messages on the television and radio, and a concise guide to “5-step mozzie wipeout” which identified common household areas where *Ae. aegypti* breed.[^26] The citizens were largely cooperative and receptive to the public health messaging, although interestingly, there were also reports of residents continuing to breed mosquito larvae as food for their fighting fishes[^27], a popular pastime at that time, even with ongoing dengue outbreaks in the 1970s.[^28]
@@ -105,15 +106,16 @@ This includes broadcasting anti-mosquito messages on the television and radio, a
        url="https://raw.githubusercontent.com/huiqingyeooo/Ae_aegypti/main/media/keepSGcleanCampaign.jpg">                      
 <param ve-image 
        label="Dengue prevention poster"
-       attibution="Ministry of Sustainability and the Environment"
+       attribution="Ministry of Sustainability and the Environment"
        license="License obtained from Ministry of Sustainability and Environment"
-       url="https://raw.githubusercontent.com/huiqingyeooo/Ae_aegypti/main/media/mosquitoPoster.jpg">
+       url="https://raw.githubusercontent.com/huiqingyeooo/Ae_aegypti/main/media/mosquitoPoster.jpg"
+       fit="contain">
 
 To ensure that residents remain vigilant in eradicating *Aedes* breeding sites, the Disease-bearing Insects Act was passed in 1968 (now superseded by the Control of Vectors and Pesticides Act in 1998). The Act illegalises breeding of any mosquito species at home and enable public health officers to enter and examine home premises for mosquito breeding.[^29] Fines are also imposed as a deterrent, and penalties have gotten more stringent over the years, suggesting that a proportion of the population continues to be negligent.
 <param ve-image 
        label="$1000 fine for leaving stagnant water in vases at the cemetery"
        attribution="Ronni Pinsler"
-       license="Permission to use image obtained from Ronni Pinsler"
+       description="Permission to use image obtained from Ronni Pinsler"
        url="https://raw.githubusercontent.com/huiqingyeooo/Ae_aegypti/main/media/Cemetery.jpg">
 
 Today, the rise in dengue cases is partially owed to the decades-old successful vector control strategies. Ironically, low numbers of *Ae. aegypti* in Singapore have resulted in a large pool of susceptible citizens (low herd immunity), which means that more people are likely to succumb to dengue when an outbreak happens. These sentiments have been echoed by various authorities throughout the years. 
