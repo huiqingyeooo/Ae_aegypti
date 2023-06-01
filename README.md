@@ -36,13 +36,13 @@ The eggs of *Ae. aegypti* are laid just above the waterline of containers and ar
 <param ve-map basemap="OpenStreetMap" title="The distribution of Aedes aegypti based on Houé et al. (2019)">  
 <param ve-map-layer geojson active url="aegypti_distribution.json">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aedes_aegypti_CDC-Gathany.jpg/640px-Aedes_aegypti_CDC-Gathany.jpg"
-	coords="14.791, -13.0421"
+	coords="14.217, -14.941"
 	size="129, 170"
 	circle="true">
 The egg form is likely how it was introduced into Singapore, through trade routes carrying artificial containers with accumulated water. 
 <param ve-map
        zoom="3"
-       coords="1.375, 103.8002"
+       coords="1.371, 103.8043"
        basemap="OpenStreetMap"
        title="Aedes aegypti was first formally recorded in Singapore in 1908 by Leicester">
 <param ve-map-layer geojson active url="aegypti_distribution.json">
