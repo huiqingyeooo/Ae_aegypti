@@ -19,7 +19,7 @@
        fit="contain">
 
 ## A human-loving mosquito
-*Ae. aegypti* is an anthropophilic species. Not only does it feed preferentially on humans[^3], it almost exclusively breeds in specialised artificial container habitats such as flowerpots and bath tubs.[^4] They can breed in small amounts of water that are relatively low in organic matter and high in oxygen.[^5]. Such adaptations have enabled this species to take easy advantage of stagnant water habitats.
+*Ae. aegypti* is an anthropophilic species. Not only does it feed preferentially on humans,[^3] it almost exclusively breeds in specialised artificial container habitats such as flowerpots and bath tubs.[^4] They can breed in small amounts of water that are relatively low in organic matter and high in oxygen.[^5] Such adaptations have enabled this species to take easy advantage of stagnant water habitats.
 <param ve-image 
        label="Illustration of Aedes aegypti (Stegomyia fasciata)" 
        license="Public domain" 
@@ -40,7 +40,7 @@ The eggs of *Ae. aegypti* are laid just above the waterline of containers and ar
 	size="129, 170"
 	circle="true"> 
 
-Though the first record of it in 1908 in Singapore was as *Stegomyia fasciata*[^7], the description of the mosquito’s distinctive lyre-shaped white scales on its thorax means identification as *Ae. aegypti* is unmistakeable. Despite its medical significance importance and far-reaching impacts on public health now, the first detection of this species on the shores of Singapore was met without much alarm and was merely treated as a new insect record.
+Though the first record of it in 1908 in Singapore was as *Stegomyia fasciata*,[^7] the description of the mosquito’s distinctive lyre-shaped white scales on its thorax means identification as *Ae. aegypti* is unmistakeable. Despite its medical significance importance and far-reaching impacts on public health now, the first detection of this species on the shores of Singapore was met without much alarm and was merely treated as a new insect record.
 <param ve-image 
        label="First formal record of (Aedes aegypti) Stegomyia fasciata in Singapore - Description" 
        attribution="Biodiversity Heritage Library"
@@ -65,10 +65,10 @@ After World War II and the end of the Japanese occupation, citizens of Singapore
        url="https://raw.githubusercontent.com/huiqingyeooo/Ae_aegypti/9f88182277c61055e195633f90a27729b4f9ead9/media/rubbishOnStreet.jpg"
        fit="contain">
 
-While cases of dengue had been recorded in Singapore as early as 1901[^13], it was not until 1960, with an outbreak of an urban and more severe form – the dengue haemorrhagic fever (DHF) – that more attention turned from fighting malaria to dengue.[^14] A year later, Dr. Albert Rudnick, an entomologist and virologist from the University of California, sampled mosquitoes from Singapore and established that the haemorrhagic form was transmitted by *Ae. aegypti*.[^15] By then, this non-native species had firmly established itself in Singapore’s growing urban landscape. Subsequently, *Ae. aegypti* facilitated many outbreaks of dengue and other mosquito-borne diseases in Singapore such as chikungunya in 2008[^16], and more recently Zika in 2016[^17], further highlighting its impact on epidemics in the urban areas.
+While cases of dengue had been recorded in Singapore as early as 1901,[^13] it was not until 1960, with an outbreak of an urban and more severe form – the dengue haemorrhagic fever (DHF) – that more attention turned from fighting malaria to dengue.[^14] A year later, Dr. Albert Rudnick, an entomologist and virologist from the University of California, sampled mosquitoes from Singapore and established that the haemorrhagic form was transmitted by *Ae. aegypti*.[^15] By then, this non-native species had firmly established itself in Singapore’s growing urban landscape. Subsequently, *Ae. aegypti* facilitated many outbreaks of dengue and other mosquito-borne diseases in Singapore such as <span eid="Q243257">chikungunya</span> in 2008,[^16] and more recently <span eid="Q8071861">Zika</span> in 2016,[^17] further highlighting its impact on epidemics in the urban areas.
 
 ## The relentless chase
-The first DHF outbreak in 1960 recorded 70 hospitalised cases[^18] and was a catalyst for authorities to set up the first governmental department dedicated to vector control, the Vector Control Unit (later the Vector Control Research Department – VCRD).[^19] Prior to this, the control of mosquitoes was seen as a public health responsibility under the Health department. This move placed vector control at the forefront of the government agenda and facilitated the set-up of an integrated system to tackle the growing dengue challenge. It was a nation-wide effort, involving regular surveillance and insecticide application as well as infrastructural changes such as the development of piping systems to phase out the need for stored water containers, which were – and remain – a prime breeding habitat for *Ae. aegypti*.
+The first DHF outbreak in 1960 recorded 70 hospitalised cases[^18] and was a catalyst for authorities to set up the first governmental department dedicated to vector control, the Vector Control Unit (later the Vector Control Research Department – VCRD).[^19] Prior to this, the control of mosquitoes was seen as a public health responsibility under the Health department. This move placed vector control at the forefront of the government agenda and facilitated the set-up of an integrated system to tackle the growing dengue challenge. It was a nation-wide effort, involving regular surveillance and insecticide application as well as infrastructural changes such as the development of piping systems to phase out the need for stored water containers, which were–-and remain--a prime breeding habitat for *Ae. aegypti*.
 <param ve-image 
        label="Environmental control of Aedes vectors"
        attrbution="World Health Organization"
@@ -90,10 +90,10 @@ Following the success of the *Wolbachia* control method, there are concerns that
 <param ve-image url="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3373041/bin/05-1210-F1.jpg"
        fit="contain">
 
-Inevitably, many of the breeding sites of *Ae. aegypti* occur indoors and mainly within  residences which are personal spaces and largely inaccessible for surveillance. Recognising this early on in the fight against dengue, the authorities rolled out a variety of anti-mosquito campaigns to educate the public and encourage kampung spirit (*gotong royong*) to look out for one another.[^25] 
+Inevitably, many of the breeding sites of *Ae. aegypti* occur indoors and mainly within residences which are personal spaces and largely inaccessible for surveillance. Recognising this early on in the fight against dengue, the authorities rolled out a variety of anti-mosquito campaigns to educate the public and encourage kampung spirit (*gotong royong*) to look out for one another.[^25] 
 <param ve-video id="Sr6x76ME6QA&ab" title="Dengue prevention television broadcast">
 
-This includes broadcasting anti-mosquito messages on the television and radio, and a concise guide to “5-step mozzie wipeout” which identified common household areas where *Ae. aegypti* breed.[^26] The citizens were largely cooperative and receptive to the public health messaging, although interestingly, there were also reports of residents continuing to breed mosquito larvae as food for their fighting fishes[^27], a popular pastime at that time, even with ongoing dengue outbreaks in the 1970s.[^28]
+This includes broadcasting anti-mosquito messages on the television and radio, and a concise guide to “5-step mozzie wipeout” which identified common household areas where *Ae. aegypti* breed.[^26] The citizens were largely cooperative and receptive to the public health messaging, although interestingly, there were also reports of residents continuing to breed mosquito larvae as food for their fighting fishes,[^27] a popular pastime at that time, even with ongoing dengue outbreaks in the 1970s.[^28]
 <param ve-image 
        label="Keep Singapore clean and mosquito-free campaign"
        attribution="Singapore Press Holdings"
@@ -136,7 +136,7 @@ Despite its non-native status, *Ae. aegypti* has firmly established itself in Si
 [^9]:Goh, “Eradication of Malaria from Singapore.”
 [^10]:Goh.
 [^11]:Victor Mathuraretnam Samuel Thevathasan, *The Public Service 新加坡公共服务史 Interview with THEVATHASAN, Victor Mathuraretnam Samuel (Dr.) @ Victor Madura Ratnam*, vol. Accession Number 002171/6, Reel 3, Civil Servants, 1945-1980, 1999, https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002171.
-[^12]:Victor Mathuraretnam Samuel Thevathasan, *The Public Service 新加坡公共服务史 Interview with THEVATHASAN, Victor Mathuraretnam Samuel (Dr.) @ Victor Madura Ratnam*, vol. Accession Number 002171/6, Reel 3, Civil Servants, 1945-1980, 1999, https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002171.
+[^12]: Thevathasan, *The Public Service 新加坡公共服务史 Interview with THEVATHASAN, Victor Mathuraretnam Samuel (Dr.) @ Victor Madura Ratnam*.
 [^13]:Jayanthi Rajarethinam et al., “Dengue in Singapore from 2004 to 2016: Cyclical Epidemic Patterns Dominated by Serotypes 1 and 2,” *The American Journal of Tropical Medicine and Hygiene* 99, no. 1 (July 2018): 204, https://doi.org/10.4269/ajtmh.17-0819.
 [^14]:Sara Webb, “After Taming Malaria, Singapore Fights Dengue,” *Reuters*, January 21, 2007, sec. Healthcare & Pharma, https://www.reuters.com/article/us-malaria-singapore-s-idUSSP28481920061211; World Health Organization, “Dengue Haemorrhagic Fever Control Programme in Singapore: A Case Study on the Successful Control of *Aedes aegypti* and *Aedes albopictus* Using Mainly Environmental Measures as a Part of Integrated Vector Control.”
 [^15]:"VIRUS CARRIER TRACKED,” *The Straits Times*, January 7, 1961.
