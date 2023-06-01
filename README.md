@@ -38,14 +38,8 @@ The eggs of *Ae. aegypti* are laid just above the waterline of containers and ar
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aedes_aegypti_CDC-Gathany.jpg/640px-Aedes_aegypti_CDC-Gathany.jpg"
 	coords="14.217, -14.941"
 	size="129, 170"
-	circle="true">
-The egg form is likely how it was introduced into Singapore, through trade routes carrying artificial containers with accumulated water. 
-<param ve-map
-       zoom="3"
-       coords="1.371, 103.8043"
-       basemap="OpenStreetMap"
-       title="Aedes aegypti was first formally recorded in Singapore in 1908 by Leicester">
-<param ve-map-layer geojson active url="aegypti_distribution.json">
+	circle="true"> The egg form is likely how it was introduced into <span data-mouseover-map-flyto="1.371, 103.8043">Singapore</span>, through trade routes carrying artificial containers with accumulated water. 
+
 
 Though the first record of it in 1908 in Singapore was as *Stegomyia fasciata*[^7], the description of the mosquito’s distinctive lyre-shaped white scales on its thorax means identification as *Ae. aegypti* is unmistakeable. Despite its medical significance importance and far-reaching impacts on public health now, the first detection of this species on the shores of Singapore was met without much alarm and was merely treated as a new insect record.
 <param ve-image 
