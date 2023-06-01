@@ -32,7 +32,7 @@
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aedes_aegypti_CDC-Gathany.jpg/640px-Aedes_aegypti_CDC-Gathany.jpg"
        fit="contain">    
 
-The eggs of *Ae. aegypti* are laid just above the waterline of containers and are desiccant-resistant, which means they can survive without water for months at a time.[^6] Originating from the west Sahel region of Africa, this species has since spread around the globe. The egg form is likely how it was introduced into <span data-mouseover-map-flyto="1.371, 103.8043, 3">Singapore</span>, through trade routes carrying artificial containers with accumulated water. 
+The eggs of *Ae. aegypti* are laid just above the waterline of containers and are desiccant-resistant, which means they can survive without water for months at a time.[^6] Originating from the west Sahel region of Africa, this species has since spread around the globe. The egg form is likely how it was introduced into <span data-mouseover-map-flyto="1.371, 103.8043, 8">Singapore</span>, through trade routes carrying artificial containers with accumulated water. 
 <param ve-map basemap="OpenStreetMap" title="The distribution of Aedes aegypti based on Houé et al. (2019)">
 <param ve-map-layer geojson active url="https://raw.githubusercontent.com/huiqingyeooo/Ae_aegypti/main/aegypti_distribution.json">
 <param ve-map-marker url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aedes_aegypti_CDC-Gathany.jpg/640px-Aedes_aegypti_CDC-Gathany.jpg"
