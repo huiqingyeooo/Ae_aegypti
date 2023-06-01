@@ -2,7 +2,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Not all black and white" 
+       title="Aedes aegypti: Not all black and white" 
        author="Yeo Huiqing"
        banner="https://upload.wikimedia.org/wikipedia/commons/5/50/Aedes_aegypti_E-A-Goeldi_1905.jpg"
        layout="vertical">
@@ -91,7 +91,8 @@ Following the success of the *Wolbachia* control method, there are concerns that
 
 ## It takes a village for successful vector control
 *Ae. aegypti* has been under intensive mosquito control in the past 60 years with noticeable decrease in its population size.[^23] Dengue cases are still on the rise however, with the top two highest cases in a year reported in the last three years (2020: 35,315 cases and 2022: 32,325 cases).[^24] This is despite the multitude of efforts and variety of vector control solutions in “chasing” down *Ae. aegypti*.
-<param ve-image url="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3373041/bin/05-1210-F1.jpg">
+<param ve-image url="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3373041/bin/05-1210-F1.jpg"
+       fit="contain">
 
 Inevitably, many of the breeding sites of *Ae. aegypti* occur indoors and mainly within  residences which are personal spaces and largely inaccessible for surveillance. Recognising this early on in the fight against dengue, the authorities rolled out a variety of anti-mosquito campaigns to educate the public and encourage kampung spirit (“gotong royong”) to look out for one another.[^25] 
 <param ve-video id="Sr6x76ME6QA&ab" title="Dengue prevention television broadcast">
