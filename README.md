@@ -21,9 +21,9 @@
 ## A human-loving mosquito
 *Ae. aegypti* is an anthropophilic species. Not only does it feed preferentially on humans,[^3] it almost exclusively breeds in specialised artificial container habitats such as flowerpots and bath tubs.[^4] They can breed in small amounts of water that are relatively low in organic matter and high in oxygen.[^5] Such adaptations have enabled this species to take easy advantage of stagnant water habitats.
 <param ve-image 
+       manifest="https://iiif.archivelab.org/iiif/mosquitoeshowthe00howa/manifest.json"
        label="Illustration of Aedes aegypti (Stegomyia fasciata)" 
-       license="Public domain" 
-       url="https://iiif.archivelab.org/iiif/mosquitoeshowthe00howa/manifest.json"
+       license="Public domain"
        seq="126"
        fit="contain">
 <param ve-image 
