@@ -24,7 +24,8 @@
        manifest="https://iiif.archivelab.org/iiif/mosquitoeshowthe00howa/manifest.json"
        label="Illustration of Aedes aegypti (Stegomyia fasciata)" 
        license="Public domain"
-       seq="126"
+       seq="152"
+       region="530,775,1146,909"
        fit="contain">
 <param ve-image 
        label="Photograph of *Aedes aegypti*" 
