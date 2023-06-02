@@ -23,7 +23,8 @@
 <param ve-image 
        label="Illustration of Aedes aegypti (Stegomyia fasciata)" 
        license="Public domain" 
-       url="https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2021/06/Campbell_4-768x679.jpg"
+       url="https://iiif.archivelab.org/iiif/mosquitoeshowthe00howa/manifest.json"
+       seq="126"
        fit="contain">
 <param ve-image 
        label="Photograph of *Aedes aegypti*" 
