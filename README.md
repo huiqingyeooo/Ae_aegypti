@@ -25,7 +25,7 @@
        label="Illustration of Aedes aegypti (Stegomyia fasciata)" 
        license="Public domain"
        seq="153"
-       region="530,775,1146,909"
+       region="122,729,1652,1309"
        fit="contain">
 <param ve-image 
        label="Photograph of *Aedes aegypti*" 
