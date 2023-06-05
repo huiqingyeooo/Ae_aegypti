@@ -4,7 +4,7 @@
 <param ve-config 
        title="Aedes aegypti: Not all black and white" 
        author="Yeo Huiqing"
-       banner="https://upload.wikimedia.org/wikipedia/commons/5/50/Aedes_aegypti_E-A-Goeldi_1905.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Aedes_aegypti.jpg/640px-Aedes_aegypti.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -90,6 +90,8 @@ Following the success of the *Wolbachia* control method, there are concerns that
 ## It takes a village for successful vector control
 *Ae. aegypti* has been under intensive mosquito control in the past 60 years with noticeable decrease in its population size.[^23] Dengue cases are still on the rise however, with the top two highest cases in a year reported in the last three years (2020: 35,315 cases and 2022: 32,325 cases).[^24] This is despite the multitude of efforts and variety of vector control solutions in “chasing” down *Ae. aegypti*.
 <param ve-image url="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3373041/bin/05-1210-F1.jpg"
+       attribution="Ooi EE, Goh KT, Gubler DJ. Dengue prevention and 35 years of vector control in Singapore. Emerg Infect Dis. 2006 Jun;12(6):887-93. doi: 10.3201/10.3201/eid1206.051210."
+       license="Public domain"
        fit="contain">
 
 Inevitably, many of the breeding sites of *Ae. aegypti* occur indoors and mainly within residences which are personal spaces and largely inaccessible for surveillance. Recognising this early on in the fight against dengue, the authorities rolled out a variety of anti-mosquito campaigns to educate the public and encourage kampung spirit (*gotong royong*) to look out for one another.[^25] 
