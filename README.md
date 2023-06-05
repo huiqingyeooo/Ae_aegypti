@@ -4,7 +4,7 @@
 <param ve-config 
        title="Aedes aegypti: Not all black and white" 
        author="Yeo Huiqing"
-       banner="https://en.wikipedia.org/wiki/Aedes_aegypti#/media/File:Aedes_aegypti.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/d/d0/Aedes_aegypti.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
