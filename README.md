@@ -78,7 +78,7 @@ The first DHF outbreak in 1960 recorded 70 hospitalised cases[^18] and was a cat
        url="https://raw.githubusercontent.com/huiqingyeooo/Ae_aegypti/main/media/controlOfAedesVectors.jpg">
 
 While the use of insecticides was effective in killing mosquitoes, their widespread application and the fast generation times of the mosquito contributed to the development of insecticide resistance. To combat this, Singapore has adapted a novel technology, releasing millions of male *Ae. aegypti* infected with the insect bacteria *Wolbachia*. This control strategy is species-specific, and has been effective in bringing *Ae. aegypti* populations down in areas where the Wolbachia-infected males were released.
-<param ve-video id="zAcxBNcAV00&ab" title="Vector control with Wolbachia">
+<param ve-video id="zAcxBNcAV00" title="Vector control with Wolbachia">
 
 Following the success of the *Wolbachia* control method, there are concerns that other locally occurring and adaptable species may start to take over the ecological niche left by *Ae. aegypti*. The <span eid="Q477918">Asian Tiger mosquito</span> (*Aedes albopictus*) is a widespread species in Singapore, occupying a wide range of vegetated to urban habitats. A “black-and-white” mosquito as well, it belongs to the same classification of subgenus *Stegomyia* as *Ae. aegypti*, and is a competent vector for dengue, chikungunya and Zika.[^21] Already it is a widespread species involved in multiple epidemics worldwide.[^22] This is a good reminder that *Aedes* mosquitoes and humans are part of the urban ecological fabric, and intentionally removing a species may not be as straightforward as it seems.
 <param ve-image 
@@ -95,7 +95,7 @@ Following the success of the *Wolbachia* control method, there are concerns that
        fit="contain">
 
 Inevitably, many of the breeding sites of *Ae. aegypti* occur indoors and mainly within residences which are personal spaces and largely inaccessible for surveillance. Recognising this early on in the fight against dengue, the authorities rolled out a variety of anti-mosquito campaigns to educate the public and encourage kampung spirit (*gotong royong*) to look out for one another.[^25] 
-<param ve-video id="Sr6x76ME6QA&ab" title="Dengue prevention television broadcast">
+<param ve-video id="Sr6x76ME6QA" title="Dengue prevention television broadcast">
 
 This includes broadcasting anti-mosquito messages on the television and radio, and a concise guide to “5-step mozzie wipeout” which identified common household areas where *Ae. aegypti* breed.[^26] The citizens were largely cooperative and receptive to the public health messaging, although interestingly, there were also reports of residents continuing to breed mosquito larvae as food for their fighting fishes,[^27] a popular pastime at that time, even with ongoing dengue outbreaks in the 1970s.[^28]
 <param ve-image 
